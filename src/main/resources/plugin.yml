@@ -1,0 +1,8 @@
+name: EnderNoToolDamage
+version: '${project.version}'
+main: net.endkind.endernotooldamage.EnderNoToolDamage
+api-version: '1.20'
+prefix: EnderNoToolDamage
+authors: [Endkind Ender]
+description: Prevents tools and items from taking damage during use.
+website: https://www.endkind.net
